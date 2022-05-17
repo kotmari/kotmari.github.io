@@ -1,0 +1,12 @@
+@mixin card ($w, $h) {
+    width: $w;
+    height: $h;
+    
+}
+
+@mixin btm ($w, $h, $c) {
+    width: $w;
+    height: $h;
+    background-color: $c;
+    
+}
